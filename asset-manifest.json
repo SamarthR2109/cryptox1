@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cryptox1/static/css/main.5625aa8f.css",
+    "main.js": "/cryptox1/static/js/main.e9bddd41.js",
+    "static/media/csx.avif": "/cryptox1/static/media/csx.6a4ea8fe64e845b5b140.avif",
+    "index.html": "/cryptox1/index.html",
+    "main.5625aa8f.css.map": "/cryptox1/static/css/main.5625aa8f.css.map",
+    "main.e9bddd41.js.map": "/cryptox1/static/js/main.e9bddd41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5625aa8f.css",
+    "static/js/main.e9bddd41.js"
+  ]
+}
